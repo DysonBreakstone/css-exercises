@@ -3,6 +3,10 @@
   font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
+.fontTwentyFour {
+  font-size: 24px;
+}
+
 #twoId {
   color: hsl(240, 100%, 50%);
   font-size: 36px;
