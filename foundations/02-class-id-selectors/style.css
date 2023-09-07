@@ -1,0 +1,15 @@
+.oddClass {
+  background-color: pink;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#twoId {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+}
+
+#fourId {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
